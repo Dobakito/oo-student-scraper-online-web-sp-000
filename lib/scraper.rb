@@ -1,4 +1,4 @@
-require 'open-uri'
+qrequire 'open-uri'
 require 'pry'
 
 class Scraper
